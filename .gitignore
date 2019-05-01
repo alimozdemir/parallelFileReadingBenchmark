@@ -46,7 +46,7 @@ TestResult.xml
 dlldata.c
 
 # Benchmark Results
-BenchmarkDotNet.Artifacts/
+# BenchmarkDotNet.Artifacts/
 
 # .NET Core
 project.lock.json
@@ -77,7 +77,6 @@ StyleCopReport.xml
 *.tlh
 *.tmp
 *.tmp_proj
-*.log
 *.vspscc
 *.vssscc
 .builds
